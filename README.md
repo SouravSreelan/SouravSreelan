@@ -43,16 +43,16 @@ Motivated Data Scientist with 1 year and 3 months of experience in database deve
 ### Data Scientist
 **Center for Integrative Omics Data Science, Mangalore**  
 _Aug 2023 – Present_
-- Pioneered the ProteoArk Database development, synthesizing a variety of proteomics datasets into a unified solution; boosted data analysis throughput by 35% and visualization clarity, resulting in a 50% rise in user satisfaction.
-- Led a key initiative in the RememProt project, advancing both frontend and backend development, linking membrane proteins to disease biomarkers, to generate critical insights and reduce disease diagnosis time by 20%.
-- Developed the HomoeOmics database, shedding light on intricate interactions between homoeopathic drugs and biological components, offering advanced analytical tools to explore treatments for previously incurable diseases.
+- Pioneered the [ProteoArk](https://ciods.in/proteoark/) Database development, synthesizing a variety of proteomics datasets into a unified solution; boosted data analysis throughput by 35% and visualization clarity, resulting in a 50% rise in user satisfaction.
+- Led a key initiative in the [RememProt](https://rememprot.ciods.in/) project, advancing both frontend and backend development, linking membrane proteins to disease biomarkers, to generate critical insights and reduce disease diagnosis time by 20%.
+- Developed the [HomoeOmics](https://ciods.in/homoeomicsdb/) database, shedding light on intricate interactions between homoeopathic drugs and biological components, offering advanced analytical tools to explore treatments for previously incurable diseases.
 - Conducted comprehensive data analysis, cleaning, and visualization using Python, Pandas, Matplotlib, and Tableau, resulting in actionable insights and compelling presentations.
 - Utilized Tableau and Python to create dynamic and insightful visualizations, including heatmaps and dashboards, facilitating data-driven decision-making processes.
 
 ### Intern, Data Scientist
 **Center for Integrative Omics Data Science, Mangalore**  
 _Feb 2023 – Aug 2023_
-- Designed and implemented a dynamic website for CIODS.
+- Designed and implemented a dynamic website for [CIODS](https://ciods.in/).
 - Mastery of Tableau for creating impactful data visualizations.
 - Created dynamic lollipop plots for data representation.
 - Attained proficiency in machine learning techniques and essential Python modules.
