@@ -72,9 +72,9 @@ CGPA: 7.7
 - **Certificate for completion of Android app using Kotlin Training** by Indian Institute of Technology, Bombay
 
 ## 📜 Publications
-- [Elucidating the phosphoregulatory network of predominant phosphosite in AXL kinase: an integrative bioinformatic approach]([Journal of Proteins and Proteomics link](https://link.springer.com/article/10.1007/s42485-024-00147-7))
-- [REMEMProt: a resource of membrane-enriched proteome profiles, their disease associations, and biomarker status]([Life Science publication link](https://www.life-science-alliance.org/content/7/7/e202302443))
-- [Helmet Detection For Motorcyclist Safety Using Machine Learning]([IJIRSET link](https://www.ijirset.com/upload/2023/april/304_Helmet_NC.pdf))
+- Elucidating the phosphoregulatory network of predominant phosphosite in AXL kinase: an integrative bioinformatic approach([Journal of Proteins and Proteomics link](https://link.springer.com/article/10.1007/s42485-024-00147-7))
+- REMEMProt: a resource of membrane-enriched proteome profiles, their disease associations, and biomarker status([Life Science publication link](https://www.life-science-alliance.org/content/7/7/e202302443))
+- Helmet Detection For Motorcyclist Safety Using Machine Learning([IJIRSET link](https://www.ijirset.com/upload/2023/april/304_Helmet_NC.pdf))
 
 ## 📫 Connect with me
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souravsreelan)
