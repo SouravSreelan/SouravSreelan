@@ -5,8 +5,8 @@
 ## 🚀 About Me
 Motivated Data Scientist with 1 year and 3 months of experience in database development, website creation, and data visualization. Proficient in Python, JavaScript, Next.js, React, and MySQL. Experienced in using Tableau for data visualization and analysis. Demonstrated success in both independent projects and collaborative team environments, leveraging strong technical skills and a solid foundation in data science principles to deliver impactful solutions.
 
-📍Kerala, India
-📧 [souravsreelan@gmail.com](mailto:souravsreelan@gmail.com)
+-📍Kerala, India
+- 📧 [souravsreelan@gmail.com](mailto:souravsreelan@gmail.com)
 
 ## 🛠️ Key Skills
 
