@@ -63,7 +63,5 @@ CGPA: 7.7
 - [Twitter](https://twitter.com/SouravSreelan)
 - [Email](mailto:souravsreelan@gmail.com)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
