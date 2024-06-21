@@ -33,7 +33,7 @@ Motivated Data Scientist with 1 year and 3 months of experience in database deve
 
 ## 🌱 Currently Learning
 - Advanced machine learning techniques.
-- Enhancing skills in React and front-end development.
+- Enhancing skills in React and front-end developments.
 
 ## 📈 GitHub Stats
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravSreelan&show_icons=true&theme=radical)
@@ -69,8 +69,8 @@ _Aug 2022 – Sept 2022_
 Visvesvaraya Technological University, 2019-2023  
 CGPA: 7.7
 
-## 🏆 Certifications
-- **JavaScript (Advanced)** – HackerRank
+## 🏆 Certifications  
+- **JavaScript (Advanced)** – HackerRank 
 - **Certificate for Completion of Python 3.4.3 Training** by Indian Institute of Technology, Bombay
 - **Certificate for completion of Android app using Kotlin Training** by Indian Institute of Technology, Bombay
 
