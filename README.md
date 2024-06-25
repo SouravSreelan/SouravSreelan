@@ -3,13 +3,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SouravSreelan&style=flat-square)
 
 ## 🚀 About Me
-Motivated Data Scientist with 1 year and 3 months of experience in database development, website creation, and data visualization. Proficient in Python, JavaScript, Next.js, React, and MySQL. Experienced in using Tableau for data visualization and analysis. Demonstrated success in both independent projects and collaborative team environments, leveraging strong technical skills and a solid foundation in data science principles to deliver impactful solutions.
+Motivated Data Scientist with 1 year and 3 months of experience in database development, website creation, and data visualization. Proficient in Python, JavaScript, Next.js, React, and MySQL. Experienced in using Tableau for data visualization and analysis. Demonstrated success in both independent projects and collaborative team environments, leveraging strong technical skills and a solid foundation in data science principles to deliver impactful solutions.    
 
 - 📍Kerala, India
 - 📧 [souravsreelan@gmail.com](mailto:souravsreelan@gmail.com)
 
 ## 🛠️ Key Skills
-
+   
 **Languages**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@ Motivated Data Scientist with 1 year and 3 months of experience in database deve
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravSreelan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSreelan&layout=compact&theme=radical)
 
-## 💼 Professional Experience
+## 💼 Professional Experience  
 ### Data Scientist
 **Center for Integrative Omics Data Science, Mangalore**  
 _Aug 2023 – Present_
@@ -54,7 +54,7 @@ _Aug 2023 – Present_
 _Feb 2023 – Aug 2023_
 - Designed and implemented a dynamic website for [CIODS](https://ciods.in/).
 - Mastery of Tableau for creating impactful data visualizations.
-- Created dynamic lollipop plots for data representation.
+- Created dynamic lollipop plots for data representation.     
 - Attained proficiency in machine learning techniques and essential Python modules.
 - Developed and integrated Cytoscape.js package for interactive network visualization, enhancing data clarity and leading to a 40% increase in user engagement and a 25% reduction in analysis time.
 
