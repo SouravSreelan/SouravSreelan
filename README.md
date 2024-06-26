@@ -3,14 +3,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SouravSreelan&style=flat-square)
 
 ## 🚀 About Me
-Motivated Data Scientist with 1 year and 3 months of experience in database development, website creation, and data visualization. Proficient in Python, JavaScript, Next.js, React, and MySQL. Experienced in using Tableau for data visualization and analysis. Demonstrated success in both independent projects and collaborative team environments, leveraging strong technical skills and a solid foundation in data science principles to deliver impactful solutions.    
+Motivated Data Scientist with 1 year and 3 months of experience in database development, website creation, and data visualization. Proficient in Python, JavaScript, Next.js, React, and MySQL. Experienced in using Tableau for data visualization and analysis. Demonstrated success in both independent projects and collaborative team environments, leveraging strong technical skills and a solid foundation in data science principles to deliver impactful solutions.                    
 
 - 📍Kerala, India
 - 📧 [souravsreelan@gmail.com](mailto:souravsreelan@gmail.com)
 
 ## 🛠️ Key Skills
    
-**Languages**:  
+**Languages**:    
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -32,15 +32,15 @@ Motivated Data Scientist with 1 year and 3 months of experience in database deve
 
 
 ## 🌱 Currently Learning
-- Advanced machine learning techniques.
-- Enhancing skills in React and front-end developments.
+- Advanced machine learning techniques.   
+- Enhancing skills in React and front-end developments.    
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats    
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravSreelan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSreelan&layout=compact&theme=radical)
 
 ## 💼 Professional Experience  
-### Data Scientist
+### Data Scientist    
 **Center for Integrative Omics Data Science, Mangalore**  
 _Aug 2023 – Present_
 - Pioneered the [ProteoArk](https://ciods.in/proteoark/) Database development, synthesizing a variety of proteomics datasets into a unified solution; boosted data analysis throughput by 35% and visualization clarity, resulting in a 50% rise in user satisfaction.
@@ -66,7 +66,7 @@ _Aug 2022 – Sept 2022_
 
 ## 🎓 Education
 **Bachelor's Degree in Computer Science and Engineering**  
-Visvesvaraya Technological University, 2019-2023  
+Visvesvaraya Technological University, 2019-2023
 CGPA: 7.7
 
 ## 🏆 Certifications  
