@@ -3,43 +3,43 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SouravSreelan&style=flat-square)
 
 ## 🚀 About Me
-Motivated Data Scientist with 1 year and 3 months of experience in database development, website creation, and data visualization. Proficient in Python, JavaScript, Next.js, React, and MySQL. Experienced in using Tableau for data visualization and analysis. Demonstrated success in both independent projects and collaborative team environments, leveraging strong technical skills and a solid foundation in data science principles to deliver impactful solutions.              
+Motivated Data Scientist with 1 year and 3 months of experience in database development, website creation, and data visualization. Proficient in Python, JavaScript, Next.js, React, and MySQL. Experienced in using Tableau for data visualization and analysis. Demonstrated success in both independent projects and collaborative team environments, leveraging strong technical skills and a solid foundation in data science principles to deliver impactful solutions.           
 
 - 📍Kerala, India
 - 📧 [souravsreelan@gmail.com](mailto:souravsreelan@gmail.com)
 
 ## 🛠️ Key Skills
    
-**Languages**: 
+**Languages**:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)          
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)   
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Libraries/Frameworks**:  
+**Libraries/Frameworks**:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white)     
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-**Tools**:  
+**Tools**:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Cytoscape.js](https://img.shields.io/badge/Cytoscape.js-23A9F2?style=flat&logoColor=white)
 
-**Databases**:  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)     
+**Databases**:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
 ## 🌱 Currently Learning
 - Advanced machine learning techniques.
 - Enhancing skills in React and front-end developments.
 
-## 📈 GitHub Stats    
+## 📈 GitHub Stats
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravSreelan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSreelan&layout=compact&theme=radical)
 
-## 💼 Professional Experience 
+## 💼 Professional Experience
 ### Data Scientist
 **Center for Integrative Omics Data Science, Mangalore**
 _Aug 2023 – Present_
@@ -50,7 +50,7 @@ _Aug 2023 – Present_
 - Utilized Tableau and Python to create dynamic and insightful visualizations, including heatmaps and dashboards, facilitating data-driven decision-making processes.
 
 ### Intern, Data Scientist
-**Center for Integrative Omics Data Science, Mangalore** 
+**Center for Integrative Omics Data Science, Mangalore**
 _Feb 2023 – Aug 2023_
 - Designed and implemented a dynamic website for [CIODS](https://ciods.in/).
 - Mastery of Tableau for creating impactful data visualizations.
