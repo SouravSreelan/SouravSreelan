@@ -6,12 +6,12 @@
 Motivated Data Scientist with 1 year and 3 months of experience in database development, website creation, and data visualization. Proficient in Python, JavaScript, Next.js, React, and MySQL. Experienced in using Tableau for data visualization and analysis. Demonstrated success in both independent projects and collaborative team environments, leveraging strong technical skills and a solid foundation in data science principles to deliver impactful solutions.           
 
 - 📍Kerala, India
-- 📧 [souravsreelan@gmail.com](mailto:souravsreelan@gmail.com)
+- 📧 [souravsreelan@gmail.com](mailto:souravsreelan@gmail.com)   
 
 ## 🛠️ Key Skills
    
 **Languages**:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)   
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
