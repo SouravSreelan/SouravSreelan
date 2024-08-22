@@ -1,4 +1,4 @@
-# Hi there, I'm Sourav Sreelan! 👋
+# Hi there, I'm Sourav Sreelan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SouravSreelan&style=flat-square)
 
