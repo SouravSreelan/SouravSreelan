@@ -5,10 +5,11 @@
 	<img src="https://cdn.jsdelivr.net/gh/SouravSreelan/SouravSreelan/assets/github-contribution-grid-snake.svg" />
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouravSreelan/SouravSreelan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SouravSreelan/SouravSreelan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SouravSreelan/SouravSreelan/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SouravSreelan&style=flat-square)
