@@ -1,12 +1,6 @@
 # Hi there, I'm Sourav Sreelan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouravSreelan/SouravSreelan/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SouravSreelan/SouravSreelan/output/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SouravSreelan/SouravSreelan/output/dist/github-contribution-grid-snake.svg">
-</picture>
-
-
+<img src="https://raw.githubusercontent.com/SouravSreelan/SouravSreelan/snake/github-snake-dark.svg" width="100%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SouravSreelan&style=flat-square)
 
