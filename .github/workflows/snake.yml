@@ -29,7 +29,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bff6c2,#a7ff8d,#90f464,#8cf14b,#86d93c
+            dist/ocean.gif?color_snake=purple&color_dots=#bff6c2,#a7ff8d,#90f464,#8cf14b,#86d93c
+          color_snake: "#FF00FF"  # Purple color for the snake
+          color_dots: "#00FF00,#0000FF"  # Green and blue dots
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
