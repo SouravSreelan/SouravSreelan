@@ -79,12 +79,3 @@
   <!-- Optionally: Add animated snake or other elements here -->
 
 </svg>  
-
-
-XML file <circle id="snake" cx="10" cy="10" r="5" fill="purple">
-  <animateMotion dur="5s" repeatCount="indefinite">
-    <mpath xlink:href="#snake-path"/>
-  </animateMotion>
-</circle>
-
-<path id="snake
