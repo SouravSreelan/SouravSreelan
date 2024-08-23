@@ -10,23 +10,27 @@ Motivated Data Scientist with 1 year and 3 months of experience in database deve
 - 📍Kerala, India
 - 📧 [souravsreelan@gmail.com](mailto:souravsreelan@gmail.com) 
 
-## 🛠️ Tech Stack
+## 🛠️ Key Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&color=transparent" alt="Python" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&color=transparent" alt="JavaScript" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&color=transparent" alt="SQL" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=20&color=transparent" alt="Pandas" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white&logoWidth=20&color=transparent" alt="Matplotlib" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=20&color=transparent" alt="Django" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=20&color=transparent" alt="React" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&logoWidth=20&color=transparent" alt="Next.js" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=20&color=transparent" alt="TensorFlow" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoWidth=20&color=transparent" alt="Tableau" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-Cytoscape.js-23A9F2?style=for-the-badge&logoColor=white&logoWidth=20&color=transparent" alt="Cytoscape.js" style="border-radius: 50%; border: 1px solid transparent;">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&color=transparent" alt="MySQL" style="border-radius: 50%; border: 1px solid transparent;">
-</p>
+**Languages**:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+**Libraries/Frameworks**:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+**Tools**:
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Cytoscape.js](https://img.shields.io/badge/Cytoscape.js-23A9F2?style=flat&logoColor=white)
+
+**Databases**:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
 ## 🌱 Currently Learning
