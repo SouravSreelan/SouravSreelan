@@ -1,5 +1,5 @@
 # Hi there, I'm Sourav Sreelan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-<img src="https://raw.githubusercontent.com/SouravSreelan/SouravSreelan/main/sourav.svg" width="100%">
+
 <img src="https://raw.githubusercontent.com/SouravSreelan/SouravSreelan/snake/github-snake-dark.svg" width="100%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SouravSreelan&style=flat-square)
