@@ -1,7 +1,7 @@
 <svg viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="black"/>
 
-  <!-- Pixelated "S" -->
+ 
   <rect x="10" y="10" width="10" height="10" fill="green"/>
   <rect x="20" y="10" width="10" height="10" fill="green"/>
   <rect x="30" y="10" width="10" height="10" fill="green"/>
@@ -14,7 +14,7 @@
   <rect x="20" y="50" width="10" height="10" fill="green"/>
   <rect x="30" y="50" width="10" height="10" fill="green"/>
 
-  <!-- Pixelated "O" -->
+ 
   <rect x="50" y="10" width="10" height="10" fill="green"/>
   <rect x="60" y="10" width="10" height="10" fill="green"/>
   <rect x="70" y="10" width="10" height="10" fill="green"/>
@@ -28,7 +28,7 @@
   <rect x="50" y="30" width="10" height="10" fill="green"/>
   <rect x="70" y="30" width="10" height="10" fill="green"/>
 
-  <!-- Pixelated "U" -->
+  
   <rect x="90" y="10" width="10" height="10" fill="green"/>
   <rect x="110" y="10" width="10" height="10" fill="green"/>
   <rect x="90" y="20" width="10" height="10" fill="green"/>
@@ -39,7 +39,7 @@
   <rect x="110" y="40" width="10" height="10" fill="green"/>
   <rect x="100" y="50" width="10" height="10" fill="green"/>
 
-  <!-- Pixelated "R" -->
+ 
   <rect x="130" y="10" width="10" height="10" fill="green"/>
   <rect x="140" y="10" width="10" height="10" fill="green"/>
   <rect x="150" y="10" width="10" height="10" fill="green"/>
@@ -52,7 +52,7 @@
   <rect x="150" y="40" width="10" height="10" fill="green"/>
   <rect x="140" y="50" width="10" height="10" fill="green"/>
 
-  <!-- Pixelated "A" -->
+
   <rect x="170" y="10" width="10" height="10" fill="green"/>
   <rect x="180" y="10" width="10" height="10" fill="green"/>
   <rect x="190" y="10" width="10" height="10" fill="green"/>
@@ -64,7 +64,7 @@
   <rect x="180" y="40" width="10" height="10" fill="green"/>
   <rect x="190" y="40" width="10" height="10" fill="green"/>
 
-  <!-- Pixelated "V" -->
+  
   <rect x="220" y="10" width="10" height="10" fill="green"/>
   <rect x="250" y="10" width="10" height="10" fill="green"/>
   <rect x="230" y="20" width="10" height="10" fill="green"/>
@@ -76,6 +76,6 @@
   <rect x="230" y="50" width="10" height="10" fill="green"/>
   <rect x="240" y="50" width="10" height="10" fill="green"/>
 
-  <!-- Optionally: Add animated snake or other elements here -->
+ 
 
 </svg>  
