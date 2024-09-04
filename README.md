@@ -9,7 +9,7 @@ Motivated Data Scientist with 1 year and 3 months of experience in database deve
 
 - 📍Kerala, India
 - 📧 [souravsreelan@gmail.com](mailto:souravsreelan@gmail.com) 
-
+ 
 ## 🛠️ Key Skills
 
 **Languages**:
