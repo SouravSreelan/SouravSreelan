@@ -83,15 +83,18 @@ MySQL · AWS (LocalStack) · GitHub Actions
 
 ## 📜 Publications  
 - [ProteoArk: A One-Pot Proteomics Data Analysis and Visualization Tool for Biologists](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00556) – *Journal of Poteome Research*  
-- [REMEMProt:a resource of membrane-enriched proteome profiles, their disease associations, and biomarker statu](https://www.life-science-alliance.org/content/7/7/e202302443) – *Life Science Alliance*
-- [HomoeOmicsDB: A global reference platform for accelerating basic and application research in homeopath](https://highdilution.org/index.php/ijhdr/article/view/1484) – *IJHDR* 
+- [REMEMProt: a resource of membrane-enriched proteome profiles, their disease associations, and biomarker statu](https://www.life-science-alliance.org/content/7/7/e202302443) – *Life Science Alliance*  
+- [HomoeOmicsDB: A global reference platform for accelerating basic and application research in homeopath](https://highdilution.org/index.php/ijhdr/article/view/1484) – *IJHDR*  
 - [Helmet Detection for Motorcyclist Safety](https://www.ijirset.com/upload/2023/april/304_Helmet_NC.pdf) – *IJIRSET*  
 
 ---
 
 ## 📊 GitHub at a Glance  
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravSreelan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSreelan&layout=compact&theme=radical)  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SouravSreelan&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSreelan&layout=compact&theme=radical" height="150" />
+</div>
 
 ---
 
@@ -104,8 +107,13 @@ MySQL · AWS (LocalStack) · GitHub Actions
 ---
 
 ## 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souravsreelan)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SouravSreelan)  
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souravsreelan) &nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SouravSreelan) &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:souravsreelan@gmail.com)  
+
+</div>
 
 ---
