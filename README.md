@@ -41,7 +41,7 @@ MySQL · AWS (LocalStack) · GitHub Actions
 <td width="50%">
 <h3 align="center">🔹 <a href="https://ciods.in/proteoark/">ProteoArk</a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Stack-Python%20%7C%20Django%20%7C%20SQL%20%7C%20Tableau-blue" />
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20Django%20%7C%20MySQL%20%7C%20React" />
 </p>
 <p>Unified proteomics database integrating diverse datasets → boosted data analysis throughput by <b>35%</b>.</p>
 </td>
@@ -49,7 +49,7 @@ MySQL · AWS (LocalStack) · GitHub Actions
 <td width="50%">
 <h3 align="center">🔹 <a href="https://rememprot.ciods.in/">RememProt</a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Stack-React%20%7C%20Django%20%7C%20Cytoscape.js%20%7C%20Python-green" />
+<img src="https://img.shields.io/badge/Stack-Next%20%7C%20Django%20%7C%20d3.js%20%7C%20Python-green" />
 </p>
 <p>Mapped membrane proteins to disease biomarkers → cut diagnosis time by <b>20%</b>.</p>
 </td>
@@ -61,7 +61,7 @@ MySQL · AWS (LocalStack) · GitHub Actions
 <td width="50%">
 <h3 align="center">🔹 <a href="https://ciods.in/homoeomicsdb/">HomoeOmics</a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Django%20%7C%20MySQL%20%7C%20Python-orange" />
+<img src="https://img.shields.io/badge/Stack-React%20%7C%20Django%20%7C%20MySQL%20%7C%20Python-orange" />
 </p>
 <p>Interactive platform linking drugs with biological targets → supports advanced drug discovery analysis.</p>
 </td>
@@ -95,10 +95,10 @@ MySQL · AWS (LocalStack) · GitHub Actions
 ---
 
 ## 🎓 Quick Background  
-🎓 B.E. in Computer Science and Engineering (VTU, 2019–2023)  
-📍 Kerala, India  
-📜 Published research in **data-driven biology & ML applications**  
-☕ Big fan of clean dashboards and strong filter coffee  
+- 🎓 B.E. in Computer Science and Engineering (VTU, 2019–2023)  
+- 📍 Kerala, India  
+- 📜 Published research in **data-driven biology & ML applications**  
+- ☕ Big fan of clean dashboards and strong filter coffee  
 
 ---
 
