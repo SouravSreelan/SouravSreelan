@@ -41,7 +41,7 @@ MySQL · AWS (LocalStack) · GitHub Actions
 <td width="50%">
 <h3 align="center">🔹 <a href="https://ciods.in/proteoark/">ProteoArk</a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Stack-Python%20%7C%20Django%20%7C%20MySQL%20%7C%20React" />
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20Django%20%7C%20MySQL%20%7C%20React-blue" />
 </p>
 <p>Unified proteomics database integrating diverse datasets → boosted data analysis throughput by <b>35%</b>.</p>
 </td>
@@ -82,8 +82,9 @@ MySQL · AWS (LocalStack) · GitHub Actions
 ---
 
 ## 📜 Publications  
-- [AXL Kinase Phosphoregulatory Network](https://link.springer.com/article/10.1007/s42485-024-00147-7) – *Journal of Proteins and Proteomics*  
-- [REMEMProt Database](https://www.life-science-alliance.org/content/7/7/e202302443) – *Life Science Alliance*  
+- [ProteoArk: A One-Pot Proteomics Data Analysis and Visualization Tool for Biologists](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00556) – *Journal of Poteome Research*  
+- [REMEMProt:a resource of membrane-enriched proteome profiles, their disease associations, and biomarker statu](https://www.life-science-alliance.org/content/7/7/e202302443) – *Life Science Alliance*
+- [HomoeOmicsDB: A global reference platform for accelerating basic and application research in homeopath](https://highdilution.org/index.php/ijhdr/article/view/1484) – *IJHDR* 
 - [Helmet Detection for Motorcyclist Safety](https://www.ijirset.com/upload/2023/april/304_Helmet_NC.pdf) – *IJIRSET*  
 
 ---
