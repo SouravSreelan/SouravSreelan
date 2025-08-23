@@ -33,31 +33,51 @@ MySQL · AWS (LocalStack) · GitHub Actions
 
 ## 📌 Featured Projects  
 
-### 🔹 [ProteoArk](https://ciods.in/proteoark/)  
-Unified proteomics database integrating diverse datasets → boosted data analysis throughput by **35%**.  
-**Stack:** Python, SQL, Django, Tableau  
+<div align="center">
 
----
+<table>
+<tr>
 
-### 🔹 [RememProt](https://rememprot.ciods.in/)  
-Mapped membrane proteins to disease biomarkers → cut diagnosis time by **20%**.  
-**Stack:** React, Django, Cytoscape.js, Python  
+<td width="50%">
+<h3 align="center">🔹 <a href="https://ciods.in/proteoark/">ProteoArk</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20Django%20%7C%20SQL%20%7C%20Tableau-blue" />
+</p>
+<p>Unified proteomics database integrating diverse datasets → boosted data analysis throughput by <b>35%</b>.</p>
+</td>
 
----
+<td width="50%">
+<h3 align="center">🔹 <a href="https://rememprot.ciods.in/">RememProt</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Stack-React%20%7C%20Django%20%7C%20Cytoscape.js%20%7C%20Python-green" />
+</p>
+<p>Mapped membrane proteins to disease biomarkers → cut diagnosis time by <b>20%</b>.</p>
+</td>
 
-### 🔹 [HomoeOmics](https://ciods.in/homoeomicsdb/)  
-Interactive platform linking homeopathic drugs with biological targets → supports advanced drug discovery analysis.  
-**Stack:** Next.js, Django, MySQL, Python  
+</tr>
 
----
+<tr>
 
-### 🔹 [Helmet Detection (ML Project)](https://www.ijirset.com/upload/2023/april/304_Helmet_NC.pdf)  
-Applied computer vision to improve motorcyclist safety using ML.  
-**Stack:** TensorFlow, OpenCV, Python  
+<td width="50%">
+<h3 align="center">🔹 <a href="https://ciods.in/homoeomicsdb/">HomoeOmics</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Django%20%7C%20MySQL%20%7C%20Python-orange" />
+</p>
+<p>Interactive platform linking drugs with biological targets → supports advanced drug discovery analysis.</p>
+</td>
 
----
+<td width="50%">
+<h3 align="center">🔹 <a href="https://www.ijirset.com/upload/2023/april/304_Helmet_NC.pdf">Helmet Detection</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Stack-TensorFlow%20%7C%20OpenCV%20%7C%20Python-red" />
+</p>
+<p>Computer vision project for road safety — automated helmet detection using ML.</p>
+</td>
 
-*(More projects coming soon: demand forecasting 📈, fraud detection 🕵️, recommender systems 🎯)*  
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -77,7 +97,8 @@ Applied computer vision to improve motorcyclist safety using ML.
 ## 🎓 Quick Background  
 🎓 B.E. in Computer Science and Engineering (VTU, 2019–2023)  
 📍 Kerala, India  
-☕ Love clean dashboards + strong filter coffee  
+📜 Published research in **data-driven biology & ML applications**  
+☕ Big fan of clean dashboards and strong filter coffee  
 
 ---
 
